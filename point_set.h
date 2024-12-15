@@ -1,3 +1,24 @@
+/**
+** Universidad de La Laguna
+** Escuela Superior de Ingenieria y Tecnologia
+** Grado en Ingenieria Informatica
+** Asignatura: Computabilidad y Algoritmia
+** Curso: 2º
+** Practica 12: Algoritmos Divide y Vencerás
+** Autor: Marco Pérez Padilla
+** Correo: alu0101469348@ull.edu.es
+** Fecha: 13/10/2024
+
+** Archivo point_set.h: Declaración de la clase point_set.
+
+** Referencias:
+**      Enlaces de interes
+
+** Historial de revisiones:
+**      13/10/2024 - Creacion (primera version) del codigo
+**      15/10/2024 - Creación de métodos restantes y de escritura
+**/
+
 #ifndef POINT_SET_H
 #define POINT_SET_H
 
@@ -6,7 +27,7 @@
 #include <iostream>
 
 namespace CyA {
-  
+
 typedef std::pair<double,double> point;
 typedef std::pair<point, point> line;
 typedef std::vector<point> point_vector;

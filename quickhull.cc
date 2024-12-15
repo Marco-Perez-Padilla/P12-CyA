@@ -1,3 +1,23 @@
+/**
+** Universidad de La Laguna
+** Escuela Superior de Ingenieria y Tecnologia
+** Grado en Ingenieria Informatica
+** Asignatura: Computabilidad y Algoritmia
+** Curso: 2º
+** Practica 12: Algoritmos Divide y Vencerás
+** Autor: Marco Pérez Padilla
+** Correo: alu0101469348@ull.edu.es
+** Fecha: 13/10/2024
+
+** Archivo quickhull.cc: Programa cliente que dado un fichero de entrada válido, calcula su envoltura
+**            
+** Referencias:
+**      Enlaces de interes
+
+** Historial de revisiones:
+**      15/10/2024 - Creacion (primera version) del codigo
+**/
+
 #include <iostream>
 #include <fstream>
 #include "point_set.h"

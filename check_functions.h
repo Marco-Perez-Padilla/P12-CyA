@@ -4,7 +4,7 @@
 ** Grado en Ingenieria Informatica
 ** Asignatura: Computabilidad y Algoritmia
 ** Curso: 2º
-** Practica 8: Gramáticas en Forma Normal de Chomsky
+** Practica 12: Algoritmos Divide y Vencerás
 ** Autor: Marco Pérez Padilla
 ** Correo: alu0101469348@ull.edu.es
 ** Fecha: 18/10/2024
@@ -17,6 +17,7 @@
 ** Historial de revisiones:
 **      18/10/2024 - Creacion (primera version) del codigo
 **      18/10/2024 - Creación de funciones de validación de formatos y de ValidateNumber
+**      15/12/2024 - Adición de struct para opciones
 **/
 
 #include <iostream>

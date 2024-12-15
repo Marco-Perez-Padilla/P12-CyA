@@ -4,7 +4,7 @@
 ** Grado en Ingenieria Informatica
 ** Asignatura: Computabilidad y Algoritmia
 ** Curso: 2º
-** Practica 8: Gramáticas en Forma Normal de Chomsky
+** Practica 12: Algoritmos Divide y Vencerás
 ** Autor: Marco Pérez Padilla
 ** Correo: alu0101469348@ull.edu.es
 ** Fecha: 18/10/2024
@@ -19,6 +19,7 @@
 **      18/10/2024 - Creación de funciones de validación de formatos y de ValidateNumber
 **      19/10/2024 - Adición de aclaración en Help. & como símbolo reservado a cadena vacía
 **      30/10/2024 - Eliminacion de validaciones usadas para los .fa
+**      15/12/2024 - Adicion de validaciones de input y output files
 **/
 
 #include <regex>
